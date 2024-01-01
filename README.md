@@ -16,7 +16,7 @@ This plagiarism checker is a Python-based tool that utilizes OCR (Optical Charac
 - Numpy
 - Tkinter
 - opencv
-- pickle
+
 
 ## Installation
 1. Clone the repository:
